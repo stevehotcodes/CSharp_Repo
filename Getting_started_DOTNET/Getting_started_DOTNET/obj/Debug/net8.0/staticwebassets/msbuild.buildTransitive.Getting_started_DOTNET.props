@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Getting_started_DOTNET.props" />
+</Project>

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StephenOmondiOndieki\\Desktop\\projects\\CSharp_Repo\\Getting_started_DOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8463ABC9-0607-4E3D-9C42-3B20232B9CF2}|Getting_started_DOTNET\\Getting_started_DOTNET.csproj|c:\\users\\stephenomondiondieki\\desktop\\projects\\csharp_repo\\getting_started_dotnet\\getting_started_dotnet\\model\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463ABC9-0607-4E3D-9C42-3B20232B9CF2}|Getting_started_DOTNET\\Getting_started_DOTNET.csproj|solutionrelative:getting_started_dotnet\\model\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463ABC9-0607-4E3D-9C42-3B20232B9CF2}|Getting_started_DOTNET\\Getting_started_DOTNET.csproj|c:\\users\\stephenomondiondieki\\desktop\\projects\\csharp_repo\\getting_started_dotnet\\getting_started_dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8463ABC9-0607-4E3D-9C42-3B20232B9CF2}|Getting_started_DOTNET\\Getting_started_DOTNET.csproj|solutionrelative:getting_started_dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463ABC9-0607-4E3D-9C42-3B20232B9CF2}|Getting_started_DOTNET\\Getting_started_DOTNET.csproj|c:\\users\\stephenomondiondieki\\desktop\\projects\\csharp_repo\\getting_started_dotnet\\getting_started_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463ABC9-0607-4E3D-9C42-3B20232B9CF2}|Getting_started_DOTNET\\Getting_started_DOTNET.csproj|solutionrelative:getting_started_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\StephenOmondiOndieki\\Desktop\\projects\\CSharp_Repo\\Getting_started_DOTNET\\Getting_started_DOTNET\\Model\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "Getting_started_DOTNET\\Model\\StudentEntity.cs",
+              "ToolTip": "C:\\Users\\StephenOmondiOndieki\\Desktop\\projects\\CSharp_Repo\\Getting_started_DOTNET\\Getting_started_DOTNET\\Model\\StudentEntity.cs",
+              "RelativeToolTip": "Getting_started_DOTNET\\Model\\StudentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:11:33.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\StephenOmondiOndieki\\Desktop\\projects\\CSharp_Repo\\Getting_started_DOTNET\\Getting_started_DOTNET\\appsettings.json",
+              "RelativeDocumentMoniker": "Getting_started_DOTNET\\appsettings.json",
+              "ToolTip": "C:\\Users\\StephenOmondiOndieki\\Desktop\\projects\\CSharp_Repo\\Getting_started_DOTNET\\Getting_started_DOTNET\\appsettings.json",
+              "RelativeToolTip": "Getting_started_DOTNET\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T11:37:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StephenOmondiOndieki\\Desktop\\projects\\CSharp_Repo\\Getting_started_DOTNET\\Getting_started_DOTNET\\Program.cs",
+              "RelativeDocumentMoniker": "Getting_started_DOTNET\\Program.cs",
+              "ToolTip": "C:\\Users\\StephenOmondiOndieki\\Desktop\\projects\\CSharp_Repo\\Getting_started_DOTNET\\Getting_started_DOTNET\\Program.cs",
+              "RelativeToolTip": "Getting_started_DOTNET\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:37:02.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
