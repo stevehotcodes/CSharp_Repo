@@ -89,7 +89,7 @@ namespace DemoAPI.Controllers
             return Ok(studentDetails);
         }
         [HttpPost("UpdateUser")]
-        public ActionResult<StudentEntity> UpdateStudent(int Id, [FromBody] StudentEntity studentDetails)
+       /* public ActionResult<StudentEntity> UpdateStudent(int Id, [FromBody] StudentEntity studentDetails)
         {
             // Check if the model state is valid
             if (!ModelState.IsValid)
@@ -117,7 +117,7 @@ namespace DemoAPI.Controllers
             return Ok(StudentDetails);
 
 
-        }
+        }*/
 
         [HttpPut("DeleteStudent")]
         public ActionResult<StudentEntity> DeleteStudent(int Id, [FromBody] StudentEntity studentDetails)
